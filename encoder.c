@@ -1,4 +1,4 @@
 GetPos()
 {
-    int Pos =20;
+    int Pos =20; 
 }
